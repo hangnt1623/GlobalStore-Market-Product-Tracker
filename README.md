@@ -1,8 +1,8 @@
 # 📊 Global SuperStore Market & Product Tracker 
 
-Author: Nguyen Thuy Hang
-Date: 2025-06-23
-Tools Used: Power BI
+- Author: Nguyen Thuy Hang
+- Date: 2025-06-23
+- Tools Used: Power BI
 
 ---
 
