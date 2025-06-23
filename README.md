@@ -1,1 +1,1 @@
-# GlobalStore-Market-Product-Tracker
+# Global-SuperStore-Market-Product-Tracker
