@@ -19,44 +19,45 @@
 
 ### Objective:
 ### 📖 What is this project about? 
- 
-- Provide a brief introduction to the project. Define the problem statement and why it is important.
-- Write in bullet point format
-
- _Example:_
- 
- This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
- - optimize stock levels & improve demand forecasting
- - reduce costs.  
+This project analyzes global sales performance of Superstore using provided datasets (Orders, People, Returns). The objective is to:
+- Provide an overview of the company's business situation: This includes understanding overall sales trends, revenue, and profitability
+- Support market expansion strategies: By identifying top-performing regions, untapped markets, and customer segments
+- Inform strategic product selection: By analyzing product performance, identifying best-sellers, and understanding customer preferences
 
 ### 👤 Who is this project for?  
 
-Mention who might benefit from this project 
-
- _Example:_
-
-✔️ Data analysts & business analysts  
-✔️ Supply chain managers & inventory controllers  
-✔️ Decision-makers & stakeholders  
+✔️ Senior Manager of Superstore (mainly)
+✔️ Sales and Marketing Teams  
+✔️ Product Development Teams 
+✔️ Regional Managers
+✔️ Business Analysts
 
 ###  ❓Business Questions:  
-Clearly outline what the business questions project will solve.  
-
- _Example:_
-
-✔️ Identify high-demand products and sales trends.  
-✔️ Optimize inventory levels to prevent overstocking or stockouts.  
-✔️ Provide actionable insights through Power BI dashboards.  
+✔️ Understand overall business performance by analyzing sales, profit, and quantity trends over time and across different segments
+✔️ Identify high-potential markets for expansion and areas requiring strategic intervention based on regional performance
+✔️ Pinpoint strategic products by evaluating profitability, sales contribution, and return rates of various product categories and sub-categories
+✔️ Provide actionable insights and recommendations through an interactive Power BI dashboard to support the Senior Manager's decision-making process
 
 ### 🎯Project Outcome:  
-Summarize key findings and insights/ trends/ themes in a concise, bullet-point 
-format.  
+**1. Market Expansion**
+* **Prioritize Investment:**
+    * **APAC:** Top revenue, good profit margin, and high customer retention make it a **strategic market**
+    * **EU:** Boasts the **highest profit margin**; efforts should focus on reducing return rates for further optimization
+    * **Africa:** Shows **high potential** with almost zero returns and a solid profit margin, indicating readiness for increased investment
+* **Review & Reassess:**
+    * **Canada:** Despite a high profit margin, its **93% churn rate** makes current efficiency unsustainable
+    * **LATAM:** Characterized by low profit and revenue, coupled with high risk (returns and churn), necessitating a **complete strategy re-evaluation**
+    * **US:** While large-scale, its **suboptimal retention and high return rates** require improvements in after-sales and customer care
 
- _Example:_
+**2. Strategic Products**
+* **Technology (Accessories & Phones):** This category is ripe for **expansion**. We should prioritize expanding the portfolio, boosting marketing efforts, and maintaining cost control to maximize its strong profit margins.
+* **Office Supplies:** This stable category requires **no large-scale expansion**. The focus should be on optimizing operational efficiency and further exploiting its high-profit sub-groups.
+* **Furniture:** Requires urgent **restructuring**. We need to re-evaluate and adjust weak groups (e.g., cutting or changing supply chains). If improvements aren't seen, expansion should halt, retaining only profitable groups to prevent dragging down overall performance.
 
-✔️ Sales Trends: The top X% of products generate Y% of revenue.  
-✔️ Inventory Optimization: Certain products are frequently out-of-stock, causing revenue loss.  
-✔️ Customer Behavior: Returning customers spend Z% more per transaction than new customers.  
+**3. Customer Segments (Bonus)**
+* **Corporate:** Given its **high profit margin and stable purchase frequency**, retaining these customers should be a top priority
+* **Consumer:** The **high return rate** in this segment indicates a need to improve the overall shopping experience and product quality
+* **Home Office:** With good retention but **low revenue**, there's potential to implement **upsell strategies** to increase average transaction value
 
 ---
 
