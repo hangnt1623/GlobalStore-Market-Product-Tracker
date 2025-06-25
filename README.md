@@ -27,15 +27,23 @@ This project analyzes global sales performance of Superstore using provided data
 ### 👤 Who is this project for?  
 
 ✔️ Senior Manager of Superstore (mainly)
+
 ✔️ Sales and Marketing Teams  
+
 ✔️ Product Development Teams 
+
 ✔️ Regional Managers
+
 ✔️ Business Analysts
 
 ###  ❓Business Questions:  
+
 ✔️ Understand overall business performance by analyzing sales, profit, and quantity trends over time and across different segments
+
 ✔️ Identify high-potential markets for expansion and areas requiring strategic intervention based on regional performance
+
 ✔️ Pinpoint strategic products by evaluating profitability, sales contribution, and return rates of various product categories and sub-categories
+
 ✔️ Provide actionable insights and recommendations through an interactive Power BI dashboard to support the Senior Manager's decision-making process
 
 ### 🎯Project Outcome:  
