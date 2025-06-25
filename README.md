@@ -63,53 +63,55 @@ format.
 ## 📂 Dataset Description & Data Structure  
 
 ### 📌 Data Source  
-- Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
-- Size: (Mention the number of rows & columns)  
-- Format: (.csv, .sql, .xlsx, etc.)  
+- Source: The dataset is obtained from—Kaggle.
+- Size:
+  + The Orders table contains 51,290 records
+  + The People table contains 13 records
+  + The Returns table contains 1,172 records
+- Format: .csv
 
 ### 📊 Data Structure & Relationships  
 
 #### 1️⃣ Tables Used:  
-Mention how many tables are in the dataset.  
+There are 3 tables in the dataset:
+- Orders: store transaction information
+- People: store information of sellers in each area
+- Returns: record returned transactions
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
-Table 1: Products Table  
+#### 3️⃣ Data Relationships
+<img width="509" alt="{6E33EAAF-1C3E-418A-AF83-FB59D06A0EF6}" src="https://github.com/user-attachments/assets/bf300ab1-2b72-4985-b89f-b8855dc01cc6" />
+ 
+ (1) dim_Date to Orders:
+- Connection Type: One-to-many (1:*)
+- Direction: Single direction (from dim_Date to Orders)
+- Description: For each unique Date in the dim_Date table, there can be multiple corresponding Order Date entries in the Orders table.  This allows for filtering and analyzing orders based on time dimensions.
 
-👉🏻 Insert a screenshot of table schema 
+(2) dim_Subcategory to Orders:
+- Connection Type: One-to-many (1:*)
+- Direction: Single direction (from dim_Subcategory to Orders)
+- Description: Each Sub-Category in the dim_Subcategory table can be associated with multiple orders in the Orders table. This is used to categorize and analyze orders by subcategory
 
- _Example:_
+(3) dim_Segment to Orders:
+- Connection Type: One-to-many (1:*)
+- Direction: Single direction (from dim_Segment to Orders)
+- Description: A single Segment can be linked to multiple orders in the Orders table. This allows for analysis of orders based on customer segments
 
-| Column Name | Data Type | Description |  
-|-------------|----------|-------------|  
-| Product_ID  | INT      | Unique identifier for each product |  
-| Name        | TEXT     | Product name |  
-| Category    | TEXT     | Product category |  
-| Price       | FLOAT    | Price per unit |  
+(4) dim_Market to Orders:
+- Connection Type: One-to-many (1:*)
+- Direction: Single direction (from dim_Market to Orders)
+- Description: Each Market can have multiple associated orders. This is used to analyze order performance across different markets
 
+(5) People to Orders:
+- Connection Type: One-to-many (1:*)
+- Direction: Single direction (from People to Orders)
+- Description: Each Person in the People table (likely representing a salesperson or responsible party for a region) can be associated with multiple orders. This enables performance tracking by individual or region
 
-
-Table 2: Sales Transactions  
-
-👉🏻 Insert a screenshot of table schema 
-
-
- _Example:_
-
-| Column Name    | Data Type | Description |  
-|---------------|----------|-------------|  
-| Transaction_ID | INT      | Unique identifier for each sale |  
-| Product_ID     | INT      | Foreign key linking to Products table |  
-| Quantity       | INT      | Number of items sold |  
-| Sale_Date      | DATE     | Date of transaction |  
-
-
-📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle
-
-#### 3️⃣ Data Relationships:  
-Describe the connections between tables—e.g., one-to-many, many-to-many.  
-
-👉🏻 Include a screenshot of Data Modeling to visualize relationships.  
+(6) Orders to Returns:
+- Connection Type: One-to-many (1:*)
+- Direction: Single direction (from Orders to Returns)
+- Description: An Order ID in the Orders table can have zero or one corresponding Order ID in the Returns table (if the order was returned)
 
 ---
 
