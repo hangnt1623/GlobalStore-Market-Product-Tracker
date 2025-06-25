@@ -207,7 +207,7 @@ This part is presented in Dashboard.
   + Canada: Investigate the extreme churn (93.44%) despite high 26.62% PM; unsustainable for growth
 
 
-#### 3️⃣ Dashboard 3 Preview  
+#### 3️⃣ Dashboard 3: Product Tracker
 <img width="735" alt="{0A5C27CE-4293-4B59-9103-9B1DAFFF741E}" src="https://github.com/user-attachments/assets/77e35abe-adf9-4909-89b6-0faedee1c865" />
 
 **📌 Analysis 3**
@@ -234,9 +234,22 @@ This part is presented in Dashboard.
 
 ## 🔎 Final Conclusion & Recommendations  
 
-👉🏻 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:  
+> **The company demonstrates strong growth and customer loyalty, yet the overall 11.61% Profit Margin is significantly weighed down by underperforming product categories and specific markets.**
 
-📌 Key Takeaways:  
-✔️ Recommendation 1  
-✔️ Recommendation 2  
-✔️ Recommendation 3
+👉🏻 Based on the insights and findings above, we would recommend Senior Manager to consider the following:  
+
+📌 Market Recommendations
+- Sustain Strong Markets: Keep investing in APAC, EU, and US. For EU and US, focus on reducing return rates to maximize profit
+- Develop Africa's Potential: With good profit and low returns, prioritize improving retention and reducing churn to unlock growth
+- Overhaul Challenging Markets:
+  + EMEA: Major strategic overhaul needed due to very low Profit Margin (5.45%) and high churn
+  + Canada: Investigate extreme churn (93.44%) despite high profit; it's unsustainable
+  + LATAM: Optimize operations and address return rates
+
+📌 Product Recommendations  
+- Urgent Furniture Profitability Fix: The 7% Profit Margin and unprofitable Tables (-8.46% PM) are major drags. Immediately review costs, pricing, and quality. Consider discontinuing loss-making items.
+- Boost Office Supplies Margin: Despite high retention, the declining ~3-5% Profit Margin needs attention. Promote high-margin sub-categories (e.g., Paper, Labels) and address inefficiencies in low-margin ones.
+- Capitalize on Technology: This category shows strong and increasing 13-14% Profit Margins. Continue investment and innovation.
+
+***-> By aggressively addressing Furniture and Office Supplies profitability and implementing targeted market strategies (leveraging strong markets, developing Africa, and fixing underperformers), the company can significantly enhance its overall profit margin while sustaining strong growth and customer loyalty.***
+
