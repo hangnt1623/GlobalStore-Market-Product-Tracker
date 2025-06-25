@@ -1,4 +1,4 @@
-# 📊 Global SuperStore Market & Product Tracker 
+# 📊 PowerBI_Market Expansion & Product Strategy
 
 - Author: Nguyen Thuy Hang
 - Date: 2025-06-23
