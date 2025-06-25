@@ -81,9 +81,7 @@ There are 3 tables in the dataset:
 - People: store information of sellers in each area
 - Returns: record returned transactions
 
-#### 2️⃣ Table Schema & Data Snapshot  
-
-#### 3️⃣ Data Relationships
+#### 2️⃣ Data Relationships
 <img width="509" alt="{6E33EAAF-1C3E-418A-AF83-FB59D06A0EF6}" src="https://github.com/user-attachments/assets/bf300ab1-2b72-4985-b89f-b8855dc01cc6" />
  
  (1) dim_Date to Orders:
