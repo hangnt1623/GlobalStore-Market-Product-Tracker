@@ -83,36 +83,6 @@ There are 3 tables in the dataset:
 
 #### 2️⃣ Data Relationships
 <img width="509" alt="{6E33EAAF-1C3E-418A-AF83-FB59D06A0EF6}" src="https://github.com/user-attachments/assets/bf300ab1-2b72-4985-b89f-b8855dc01cc6" />
- 
- (1) dim_Date to Orders:
-- Connection Type: One-to-many (1:*)
-- Direction: Single direction (from dim_Date to Orders)
-- Description: For each unique Date in the dim_Date table, there can be multiple corresponding Order Date entries in the Orders table.  This allows for filtering and analyzing orders based on time dimensions.
-
-(2) dim_Subcategory to Orders:
-- Connection Type: One-to-many (1:*)
-- Direction: Single direction (from dim_Subcategory to Orders)
-- Description: Each Sub-Category in the dim_Subcategory table can be associated with multiple orders in the Orders table. This is used to categorize and analyze orders by subcategory
-
-(3) dim_Segment to Orders:
-- Connection Type: One-to-many (1:*)
-- Direction: Single direction (from dim_Segment to Orders)
-- Description: A single Segment can be linked to multiple orders in the Orders table. This allows for analysis of orders based on customer segments
-
-(4) dim_Market to Orders:
-- Connection Type: One-to-many (1:*)
-- Direction: Single direction (from dim_Market to Orders)
-- Description: Each Market can have multiple associated orders. This is used to analyze order performance across different markets
-
-(5) People to Orders:
-- Connection Type: One-to-many (1:*)
-- Direction: Single direction (from People to Orders)
-- Description: Each Person in the People table (likely representing a salesperson or responsible party for a region) can be associated with multiple orders. This enables performance tracking by individual or region
-
-(6) Orders to Returns:
-- Connection Type: One-to-many (1:*)
-- Direction: Single direction (from Orders to Returns)
-- Description: An Order ID in the Orders table can have zero or one corresponding Order ID in the Returns table (if the order was returned)
 
 ---
 
@@ -149,17 +119,6 @@ Explain the step-by-step approach taken to solve the problem.
 
 <img width="882" alt="{010387AB-97F1-4BDE-8762-A52A614D1685}" src="https://github.com/user-attachments/assets/87d052be-c103-4253-b3a5-d16548acc40f" />
 
-
-
-4️⃣ Prototype and review  
-
-This part is presented in Dashboard.
-
-## ⚒️ Main Process
-
-1️⃣ Data Cleaning & Preprocessing  
-2️⃣ Exploratory Data Analysis (EDA)  
-3️⃣ Power BI Visualization  
 ---
 
 ## 📊 Key Insights & Visualizations  
