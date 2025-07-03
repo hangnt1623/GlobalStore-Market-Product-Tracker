@@ -2,7 +2,7 @@
 
 - Author: Nguyen Thuy Hang
 - Date: 2025-06-23
-- Tools Used: Power BI
+- Tools Used: Power BI  
 
 ---
 
@@ -82,7 +82,7 @@ There are 3 tables in the dataset:
 - Returns: record returned transactions
 
 #### 2️⃣ Data Relationships
-<img width="509" alt="{6E33EAAF-1C3E-418A-AF83-FB59D06A0EF6}" src="https://github.com/user-attachments/assets/bf300ab1-2b72-4985-b89f-b8855dc01cc6" />
+<img width="685" alt="{1ECD2A48-763D-479B-A0F4-2CE4FFE14CEC}" src="https://github.com/user-attachments/assets/e1507170-410a-403f-9e63-4b1aba8410c1" />
 
 ---
 
@@ -94,30 +94,34 @@ Explain the step-by-step approach taken to solve the problem.
 
 (1) 5W1H 
 
-<img width="769" alt="{D7F1D2E4-C029-4F20-A585-07632938B605}" src="https://github.com/user-attachments/assets/4f2f7807-0821-4c6a-aa86-932f576750d5" />
+<img width="685" alt="{CE7A0D03-D63F-4DE9-A25C-8C33F0AAE397}" src="https://github.com/user-attachments/assets/a3b3a7e5-27c4-4ec9-92b2-ea419f2006c3" />
+
+<img width="685" alt="{8D425E12-81E5-4E4F-9BF5-F7C290C555C3}" src="https://github.com/user-attachments/assets/7e8fa7c0-0b93-4e6d-9d15-dd622f8d0a35" />
+
 
 (2) Empathy Map
 
-<img width="550" alt="{8C24B7EC-F3DB-4B3E-AD70-F8580E23482B}" src="https://github.com/user-attachments/assets/f3af8ac1-fb2d-4abc-87a3-35b41bc7e30f" />
+<img width="687" alt="{D87110DB-1A5F-40D3-B7A6-BB9755758910}" src="https://github.com/user-attachments/assets/1a621ac3-3aac-4e54-b913-bc031c8575b1" />
 
 (3) Stakeholder need
 
-<img width="275" alt="{D50B829C-E92C-4DEB-BD63-1D3AA8FEF8A0}" src="https://github.com/user-attachments/assets/15065acb-0f3f-468f-b8ef-dd8b4c8de902" />
+<img width="685" alt="{54A28E57-1A7C-4D18-B8A0-3C02CC9DAE0B}" src="https://github.com/user-attachments/assets/cf9b985e-f85f-41dd-b7e1-7f792b331d9e" />
+
 
 2️⃣ Define point of view  
 
 (1) North Star Metric
 
-<img width="474" alt="{7C0B8BA0-4E66-4B5D-A2D4-C1B861934E3F}" src="https://github.com/user-attachments/assets/6bc1c95c-8746-49fc-bd04-92350d99ae18" />
+<img width="689" alt="{2C521022-6453-4AB3-976F-194D09C3E5D4}" src="https://github.com/user-attachments/assets/a9194e90-059f-4439-af1b-61b93a1d36f5" />
 
 (2) Point of view 
 
-<img width="555" alt="{5085A3E8-8C89-4603-BEAE-5D5D1EB893AD}" src="https://github.com/user-attachments/assets/13d315e1-97ce-4923-b088-f2cd36f6a6c6" />
+<img width="686" alt="{145BC1D8-98CA-41D3-89F2-5D6356703D75}" src="https://github.com/user-attachments/assets/5f0cdb09-34a7-4a54-99a2-6e385244eb8f" />
 
 
 3️⃣ Ideate  
 
-<img width="882" alt="{010387AB-97F1-4BDE-8762-A52A614D1685}" src="https://github.com/user-attachments/assets/87d052be-c103-4253-b3a5-d16548acc40f" />
+<img width="689" alt="{43661513-A425-4A30-8D55-B371D77A030B}" src="https://github.com/user-attachments/assets/f9971def-fc52-4088-a067-803a5e76e7ee" />
 
 ---
 
