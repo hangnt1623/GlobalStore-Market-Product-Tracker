@@ -90,36 +90,36 @@ There are 3 tables in the dataset:
 
 Explain the step-by-step approach taken to solve the problem.  
 
-1️⃣ Empathize  
+**1️⃣ Empathize**
 
-(1) 5W1H 
+***(1) 5W1H***
 
 <img width="685" alt="{CE7A0D03-D63F-4DE9-A25C-8C33F0AAE397}" src="https://github.com/user-attachments/assets/a3b3a7e5-27c4-4ec9-92b2-ea419f2006c3" />
 
 <img width="685" alt="{8D425E12-81E5-4E4F-9BF5-F7C290C555C3}" src="https://github.com/user-attachments/assets/7e8fa7c0-0b93-4e6d-9d15-dd622f8d0a35" />
 
 
-(2) Empathy Map
+***(2) Empathy Map***
 
 <img width="687" alt="{D87110DB-1A5F-40D3-B7A6-BB9755758910}" src="https://github.com/user-attachments/assets/1a621ac3-3aac-4e54-b913-bc031c8575b1" />
 
-(3) Stakeholder need
+***(3) Stakeholder need***
 
 <img width="685" alt="{54A28E57-1A7C-4D18-B8A0-3C02CC9DAE0B}" src="https://github.com/user-attachments/assets/cf9b985e-f85f-41dd-b7e1-7f792b331d9e" />
 
 
-2️⃣ Define point of view  
+**2️⃣ Define point of view**  
 
-(1) North Star Metric
+***(1) North Star Metric***
 
 <img width="689" alt="{2C521022-6453-4AB3-976F-194D09C3E5D4}" src="https://github.com/user-attachments/assets/a9194e90-059f-4439-af1b-61b93a1d36f5" />
 
-(2) Point of view 
+***(2) Point of view***
 
 <img width="686" alt="{145BC1D8-98CA-41D3-89F2-5D6356703D75}" src="https://github.com/user-attachments/assets/5f0cdb09-34a7-4a54-99a2-6e385244eb8f" />
 
 
-3️⃣ Ideate  
+**3️⃣ Ideate**
 
 <img width="689" alt="{43661513-A425-4A30-8D55-B371D77A030B}" src="https://github.com/user-attachments/assets/f9971def-fc52-4088-a067-803a5e76e7ee" />
 
