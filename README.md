@@ -260,4 +260,7 @@ Explain the step-by-step approach taken to solve the problem.
 - Invest in and cross-promote "Star" subcategories (Copies, Appliances, Bookcases).
 - Develop targeted bundles for Home Office to boost retention (8.21% churn).
 
-
+**📌 Customer Segment Recommendations**
+- Prioritize Home Office Retention: Implement targeted loyalty and engagement programs for the Home Office segment to address their high 8.21% churn rate, despite their leading 11.99% Profit Margin.
+- Optimize Consumer Segment for Volume: Refine marketing and offerings for the Consumer segment to maintain its highest sales across all markets.
+- Maintain Product-Centric Profitability: Focus on optimizing overall product category profitability, as profit margins across customer segments are very similar.
