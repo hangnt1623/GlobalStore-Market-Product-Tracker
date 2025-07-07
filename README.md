@@ -19,10 +19,12 @@
 
 ### Objective:
 ### 📖 What is this project about? 
-This project analyzes global sales performance of Superstore using provided datasets (Orders, People, Returns). The objective is to:
-- Provide an overview of the company's business situation: This includes understanding overall sales trends, revenue, and profitability
-- Support market expansion strategies: By identifying top-performing regions, untapped markets, and customer segments
-- Inform strategic product selection: By analyzing product performance, identifying best-sellers, and understanding customer preferences
+This project analyzes **global sales performance** of **Superstore** using provided datasets (**Orders**, **People**, **Returns**). The objective is to:
+
+- Provide an overview of the company's **business situation**: This includes understanding overall **sales trends**, **revenue**, and **profitability**  
+- Support **market expansion strategies**: By identifying **top-performing regions**, **untapped markets**, and **customer segments**  
+- Inform **strategic product selection**: By analyzing **product performance**, identifying **best-sellers**, and understanding **customer preferences**
+
 
 ### 👤 Who is this project for?  
 
@@ -38,28 +40,31 @@ This project analyzes global sales performance of Superstore using provided data
 
 ###  ❓Business Questions:  
 
-✔️ Understand overall business performance by analyzing sales, profit, and quantity trends over time and across different segments
+✔️ Understand overall **business performance** by analyzing **sales**, **profit**, and **quantity trends** over time and across different segments  
 
-✔️ Identify high-potential markets for expansion and areas requiring strategic intervention based on regional performance
+✔️ Identify **high-potential markets** for expansion and areas requiring **strategic intervention** based on **regional performance**  
 
-✔️ Pinpoint strategic products by evaluating profitability, sales contribution, and return rates of various product categories and sub-categories
+✔️ Pinpoint **strategic products** by evaluating **profitability**, **sales contribution**, and **return rates** of various **product categories** and **sub-categories**  
 
-✔️ Provide actionable insights and recommendations through an interactive Power BI dashboard to support the Senior Manager's decision-making process
+✔️ Provide **actionable insights** and **recommendations** through an interactive **Power BI dashboard** to support the **Senior Manager's decision-making process**
+
 
 ### 🎯Project Outcome:  
 **1. Market Expansion**
-- Prioritize Investment: APAC (high revenue, good margin, high retention), EU (highest profit, reduce returns), and Africa (near 0% returns, high potential)
-- Review & Reassess: Canada (high margin but 93% churn), LATAM (low profit/revenue, high risk), and US (large scale, but retention/returns suboptimal).
+- **Prioritize Investment:** APAC (**high revenue, good margin, high retention**), EU (**highest profit, reduce returns**), and Africa (**near 0% returns, high potential**)
+- **Review & Reassess:** Canada (**high margin but 93% churn**), LATAM (**low profit/revenue, high risk**), and US (**large scale, but retention/returns suboptimal**).
+
 
 **2. Strategic Products**
-- Technology (Accessories & Phones): Expand portfolio, boost marketing, control costs.
-- Office Supplies: Maintain stability, no large-scale expansion needed; focus on high-profit groups.
-- Furniture: Restructure (cut/adjust weak groups); stop expansion if no improvement.
+- **Technology (Accessories & Phones):** Expand portfolio, boost marketing, control costs.  
+- **Office Supplies:** Maintain stability, no large-scale expansion needed; focus on high-profit groups.  
+- **Furniture:** Restructure (cut/adjust weak groups); stop expansion if no improvement.
 
 **3. Customer Segments (Bonus)**
-- Corporate: Prioritize retention (high profit, stable purchases)
-- Consumer: Improve shopping experience (high return rate)
-- Home Office: Explore upsell strategies (good retention, low revenue)
+- **Corporate:** Prioritize retention (**high profit, stable purchases**)  
+- **Consumer:** Improve shopping experience (**high return rate**)  
+- **Home Office:** Explore upsell strategies (**good retention, low revenue**)
+
 
 ---
 
@@ -248,19 +253,22 @@ Explain the step-by-step approach taken to solve the problem.
 👉🏻 Based on the insights and findings above, we would recommend Senior Manager to consider the following:  
 
 **📌 Market Recommendations**
-- Sustain Strong Markets: Keep investing in APAC, EU, and US. For EU and US, focus on reducing return rates to maximize profit
-- Develop Africa's Potential: With good profit and low returns, prioritize improving retention and reducing churn to unlock growth
-- Overhaul Challenging Markets:
-  + EMEA: Major strategic overhaul needed due to very low Profit Margin (5.45%) and high churn
-  + Canada: Investigate extreme churn (93.44%) despite high profit; it's unsustainable -> Approach Canada cautiously with niche testing, not broad expansion.
-  + LATAM: Optimize operations and address return rates
+- **Sustain Strong Markets:** Keep investing in APAC, EU, and US. For EU and US, focus on **reducing return rates to maximize profit**  
+- **Develop Africa's Potential:** With **good profit and low returns**, prioritize **improving retention and reducing churn** to unlock growth  
+- **Overhaul Challenging Markets:**  
+  + **EMEA:** Major strategic overhaul needed due to **very low Profit Margin (5.45%) and high churn**  
+  + **Canada:** Investigate **extreme churn (93.44%) despite high profit**; it's unsustainable → Approach Canada cautiously with niche testing, not broad expansion.  
+  + **LATAM:** Optimize operations and address **return rates**
+
 
 **📌 Product Recommendations**
-- Launch an urgent profitability turnaround for Furniture, especially Tables.
-- Invest in and cross-promote "Star" subcategories (Copies, Appliances, Bookcases).
-- Develop targeted bundles for Home Office to boost retention (8.21% churn).
+- **Launch an urgent profitability turnaround** for Furniture, especially Tables.  
+- **Invest in and cross-promote "Star" subcategories** (Copies, Appliances, Bookcases).  
+- **Develop targeted bundles for Home Office** to boost retention (8.21% churn).
+
 
 **📌 Customer Segment Recommendations**
-- Prioritize Home Office Retention: Implement targeted loyalty and engagement programs for the Home Office segment to address their high 8.21% churn rate, despite their leading 11.99% Profit Margin.
-- Optimize Consumer Segment for Volume: Refine marketing and offerings for the Consumer segment to maintain its highest sales across all markets.
-- Maintain Product-Centric Profitability: Focus on optimizing overall product category profitability, as profit margins across customer segments are very similar.
+- **Prioritize Home Office Retention:** Implement targeted loyalty and engagement programs for the Home Office segment to address their high **8.21% churn rate**, despite their leading **11.99% Profit Margin**.  
+- **Optimize Consumer Segment for Volume:** Refine marketing and offerings for the Consumer segment to maintain its **highest sales across all markets**.  
+- **Maintain Product-Centric Profitability:** Focus on optimizing overall product category profitability, as **profit margins across customer segments are very similar**.
+
