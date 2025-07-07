@@ -136,7 +136,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 1️⃣ Dashboard 1: Overview
 
-<img width="607" alt="{2DCC0F48-13DC-4524-ABBC-AC15B00ECE34}" src="https://github.com/user-attachments/assets/f324581c-bb1d-4737-b11c-ccf65f041d70" />
+<img width="759" alt="{E5274B19-170A-4B5C-852B-DCCB30F196F4}" src="https://github.com/user-attachments/assets/f8e6d751-2784-4862-b9bb-4b37846d4d69" />
 
 **📌 Analysis 1**
 
@@ -171,7 +171,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 2️⃣ Dashboard 2: Market Analysis
 
-<img width="604" alt="{7D417378-7CE5-4451-90A6-5404A04DF5B5}" src="https://github.com/user-attachments/assets/e1804efc-9021-47b1-9c49-9fd8d9c71acf" />
+<img width="760" alt="{5B478B7D-2214-403C-B174-04D4AC20AEAA}" src="https://github.com/user-attachments/assets/b92e8760-a75f-4e83-838d-a3e97ec634a4" />
 
 **📌 Analysis 2**
 
@@ -208,7 +208,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 3️⃣ Dashboard 3: Product Analysis
 
-<img width="601" alt="{062AB9DD-8B06-46F1-B562-C0CA133C43F0}" src="https://github.com/user-attachments/assets/bc0d6dd7-be05-48b4-a524-de72a63d7db3" />
+<img width="759" alt="{F199B466-0509-4752-A9E2-409602DC008E}" src="https://github.com/user-attachments/assets/7f9a82d1-2679-4abf-a529-d26935dc0964" />
 
 
 **📌 Analysis 3**
