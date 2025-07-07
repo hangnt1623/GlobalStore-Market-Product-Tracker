@@ -1,4 +1,4 @@
-# 📊 PowerBI_Market Expansion & Product Strategy
+# 📊 Market Expansion Product Strategy using PowerBI
 
 - Author: Nguyen Thuy Hang
 - Date: 2025-06-23
