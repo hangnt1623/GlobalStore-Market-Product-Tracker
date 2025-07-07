@@ -131,38 +131,63 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 1️⃣ Dashboard 1: Overview
 
-<img width="740" alt="{E843165D-44C6-4C7E-941B-35FDE78B5809}" src="https://github.com/user-attachments/assets/a6d8dd17-6a38-49ca-bfb7-c99d98cdeb97" />
+<img width="607" alt="{2DCC0F48-13DC-4524-ABBC-AC15B00ECE34}" src="https://github.com/user-attachments/assets/f324581c-bb1d-4737-b11c-ccf65f041d70" />
 
 **📌 Analysis 1**
 
 ***Oberservations***
-- Profitability (North Star Metric): Overall Profit Margin is 11.61%, showing stability over time, despite fluctuations. Sales and Profit grow in parallel (Sales YOY: 51.55%).
-- Customer Health: High Retention Rate (92.23%) and low Churn Rate (7.77%) indicate strong customer loyalty.
-- Category Profit Disparity: Technology and Office Supplies show strong Profit Margins (both ~14%), significantly outperforming Furniture (only 7% Profit Margin).
-- Segment Profit Uniformity: All customer segments (Home Office, Corporate, Consumer) exhibit similar Profit Margins (~12%). However, Corporate has the highest Return Rate compared to Home Office and Consumer.
+- Overall Financial Health:
+  + Superstore shows robust performance with 51.55% YoY Revenue Growth and a solid 11.61% Profit Margin. Low Return Rate (4.69%) and high Retention Rate (92.23%) further reinforce operational effectiveness and customer satisfaction.
 
+- Sales Are Seasonal, But Profitability Isn't Always Synced
+  + Sales exhibit consistent seasonal patterns (Q4 peak, Q1 dip)
+  + yet Profit Margin fluctuates significantly quarterly, not consistently reflecting sales volume. For instance, Q4 profit margins varied widely across years despite consistent sales peaks.
+  + -> While sales seasonality is clear, profit optimization during peak and off-peak periods is inconsistent, requiring better alignment of strategies and costs.
+
+- Furniture: A High-Sales Category with a Profitability Problem
+  + Technology leads in profit and sales. However, Furniture, despite being the second-largest sales contributor, yields disproportionately low profit due to its starkly low 7% Profit Margin (vs. ~14% for other categories).
+  -> Furniture's low profitability acts as a significant drag on overall profit, demanding an urgent review of its cost structure and pricing.
+
+- Market Strategy: Focus on Proven Winners, Address Underperformers
+  + APAC, EU, and US are top-performing markets with strong sales and healthy margins. Conversely, EMEA struggles with a low 5.45% Profit Margin. Canada, though boasting a 26.62% Profit Margin, has negligible sales, indicating a high-risk, unscalable niche
+  + -> Prioritize expansion in proven strong markets while critically addressing profitability issues in EMEA. Approach Canada with caution due to high risk relative to its current scale.
+
+- Home Office Segment: Profitable Yet Prone to Churn
++ The Home Office segment is highly valuable with the highest 11.99% Profit Margin and lowest 4.40% Return Rate. However, it also surprisingly has the highest 8.21% Churn Rate.
++ -> Despite high initial value and satisfaction, Superstore struggles to retain Home Office customers. Targeted retention strategies are crucial to maximize their long-term value.
+
+  
 ***Recommendations***
-- Enhance Furniture Profitability: Deep dive into the 7% Profit Margin of Furniture to identify cost or pricing issues. This is crucial for improving the overall Profit Margin.
-- Capitalize on Top Categories: Continue investing in Technology and Office Supplies to leverage their strong (~14%) Profit Margins.
-- Address Corporate Returns: Investigate the high Return Rate in the Corporate segment to protect its ~12% Profit Margin.
-- Sustain Overall Growth: Maintain strategies driving strong sales growth (51.55% YOY) and high retention to support the stable 11.61% Profit Margin.
+- Optimize Seasonal Profitability: Implement dynamic pricing and cost controls to ensure consistent profit margins across all seasons, especially during Q4 peaks.
+- Boost Furniture Profit: Conduct an urgent cost and pricing review for Furniture to significantly improve its low 7% profit margin.
+- Prioritize Core Markets; Fix EMEA: Maximize growth in APAC, EU, and US. Urgently restructure EMEA operations to address its low 5.45% profit margin.
+- Retain Home Office Segment: Develop targeted programs to reduce the 8.21% churn rate in the highly profitable Home Office customer segment.
 
-#### 2️⃣ Dashboard 2: Market Tracker
-<img width="744" alt="{B71DE64E-B43A-4DB4-B3A9-6D5887CA3814}" src="https://github.com/user-attachments/assets/73ef3283-2ba2-44aa-ab09-ea95603a863a" />
+
+#### 2️⃣ Dashboard 2: Market Analysis
+
+<img width="604" alt="{7D417378-7CE5-4451-90A6-5404A04DF5B5}" src="https://github.com/user-attachments/assets/e1804efc-9021-47b1-9c49-9fd8d9c71acf" />
 
 **📌 Analysis 2**
 
 ***Oberservations***
-- Strong & Stable Markets:
-   + APAC: Largest sales share (28.36%), healthy 12.16% Profit Margin, and good 84.91% Retention
-   + EU: High sales share (23.24%), highest Profit Margin (12.69%), but also the highest Return Rate (6.21%)
-   + US: Significant sales share (18.17%), strong 12.47% Profit Margin, but moderate 5.95% Return Rate
-- Promising Market with Challenges:
-   + Africa: Good 11.34% Profit Margin with exceptionally low 0.04% Return Rate, but suffers from very low 53.21% Retention and high 46.79% Churn
-- Markets Needing Urgent Review:
-  + LATAM: Moderate 10.24% Profit Margin and moderate Return Rate (5.82%)
-  + EMEA: Lowest Profit Margin (5.45%) and very high 40.85% Churn Rate
-  + Canada: Exceptionally high 26.62% Profit Margin, but critically unsustainable with 93.44% Churn Rate and minimal sales share (0.53%)
+- Market Profitability: Persistent Disparities Across Regions Over Time
+  + Profit Margins show distinct, consistent patterns across markets over four years (2011-2014).
+  + Canada consistently holds the highest Profit Margin (ranging 21.24% - 25.88%), while EMEA consistently records the lowest (ranging 3.87% - 7.49%).
+  + APAC and EU maintain stable profit margins with low volatility, reflecting their maturity, while Africa and LATAM show steady annual growth in their margins.
+  + -> The long-term trends confirm inherent, structural profitability differences across markets. Canada's high margin, despite very low sales volume, persists. Conversely, EMEA's consistently low margin signals deep-seated challenges that are not improving over time.
+- Core Markets Drive Volume, While Extremes Highlight Opportunities and Risks
+  + APAC, EU, and US are Superstore's volume leaders, dominating in Total Orders (e.g., APAC has 5.4K orders, 27x Canada's 201 orders) and generating substantial sales.
+  + Consumer customer segment consistently accounts for the highest sales across all seven markets, confirming its overall importance.
+  + On the other end, Canada consistently has the lowest sales volume across all customer segments, yet maintains its top-tier profit margin.
+  + -> Volume is concentrated in established markets, led by the Consumer segment. The extreme contrast of Canada (tiny volume, high margin) versus other markets confirms it as a unique, potentially risky niche rather than a scalable growth engine.
+- Varying Efficiency and Loyalty Across Markets: The Return & Churn Story
+  + While APAC boasts the highest total orders, its Return Rate (5.46%) is notable.
+  + EU, despite being the fourth largest in orders, records the highest Return Rate (6.21%).
+  + In stark contrast, EMEA, Africa, and Canada, which have the lowest order volumes, also show exceptionally low Return Rates (0.04% - 0.50%).
+  + However, this low return rate in Canada is overshadowed by an alarming 93.44% Churn Rate, which is by far the highest. Africa (46.59%) and EMEA (40.85%) also exhibit significantly high churn.
+  + -> High return rates in key markets like EU indicate potential product fit or expectation management issues that can erode profitability. More critically, Canada's extremely high churn, despite its high profit margin and low returns, points to a severe customer retention problem – customers might buy, be satisfied initially, but rarely repurchase. Similarly, the high churn in Africa and EMEA signals fundamental issues in sustaining customer loyalty, impacting long-term viability in these markets.
+
 
 ***Recommendations***
 - Sustain & Optimize Strong Markets
@@ -176,29 +201,44 @@ Explain the step-by-step approach taken to solve the problem.
   + Canada: Investigate the extreme churn (93.44%) despite high 26.62% PM; unsustainable for growth
 
 
-#### 3️⃣ Dashboard 3: Product Tracker
-<img width="735" alt="{0A5C27CE-4293-4B59-9103-9B1DAFFF741E}" src="https://github.com/user-attachments/assets/77e35abe-adf9-4909-89b6-0faedee1c865" />
+#### 3️⃣ Dashboard 3: Product Analysis
+
+<img width="601" alt="{062AB9DD-8B06-46F1-B562-C0CA133C43F0}" src="https://github.com/user-attachments/assets/bc0d6dd7-be05-48b4-a524-de72a63d7db3" />
+
 
 **📌 Analysis 3**
 
 ***Oberservations***
-- Product Category Performance:
-  + Technology (37.53% sales) & Furniture (32.51% sales) are top revenue, but Technology has Profit Margin increase gradually between 13~14%
-  + Office Supplies (29.96% sales) shows consistently low and declining Profit Margin (~3-5%), significantly impacting overall PM
-- Customer Segment Health by Category:
-  + Office Supplies has the highest Retention Rate (~89.32%)
-  + Furniture has the highest Return Rate (~6-7.5%) and the lowest Profit Margin, with sub-categories even showing negative PM
-- Sub-Category Profitability:
-  + High PM: Paper (24.24%), Labels (20.45%), Envelopes (17.32%), Copiers (17.13%) (Office Supplies); Accessories (17.30%) (Technology)
-  + Low/Negative PM: Tables (-8.46%), Chairs (9.35%) (Furniture); Machines (7.56%) (Technology); Storage (9.62%), Supplies (9.29%) (Office Supplies)
+- Core Category Performance:
+  + Office Supplies dominates order volume (>50%)
+  + Furniture consistently shows the lowest, volatile Profit Margin, contrasting with more stable Technology/Office Supplies.
+  + -> Furniture's low profitability is a core issue requiring attention.
+- Subcategory Deep Dive:
+  + "Stars": Copies, Appliances, Bookcases (high growth/profit).
+  + "Drains": Tables (negative profit), Envelopes, Papers, Furnishings, Machines (low growth/profit).
+  + Tables also have the lowest PM (-8.46%); Paper boasts the highest PM (24.24%).
+  + -> Optimize the portfolio by pushing "Stars" and re-evaluating "Drains" based on their specific performance.
+- Operational & Segment PM Consistency:
+  + Return Rates are stable annually (approx. 4.5%-4.8%).
+  + Home Office has the highest Profit Margin (11.99%), but only marginally better than other segments.
+  + -> Stable returns confirm operational consistency. Product strategy should prioritize category performance over minor segment PM differences.
+
 
 ***Recommendations***
-- Maximize Technology: Invest in Technology to capitalize on its increasing 13-14% PM
-- Urgent Office Supplies Review: Investigate reasons for Office Supplies' declining ~3-5% PM despite high retention; focus on high-PM sub-categories
-- Restructure Furniture: Address high returns and eliminate/re-evaluate loss-making Furniture (e.g., Tables: -8.46% PM)
-- Optimize Sub-Categories: Promote high-PM items (Paper, Labels) and improve/review low-PM items (Machines, Storage, Supplies)
+- Amplify "Star" Subcategories & Leverage Office Supplies Dominance:
+  + Increase investment (marketing, inventory, potential R&D) in high-growth, high-profit subcategories like Copies, Appliances, and Bookcases.
+  + Strategically cross-promote these with Office Supplies, given its >50% order volume dominance, to drive higher-margin sales.
 
+- Prioritize Furniture Profitability Turnaround:
+  + Launch an urgent deep-dive into Furniture's cost structure (sourcing, logistics, returns) and pricing strategies.
+  + Systematically identify and address specific sub-categories like Tables (-8.46% PM) that actively erode profits, considering either price adjustments, design overhaul, or discontinuation.
 
+- Strategically Manage Low-Performing Subcategories:
+  + Conduct a rigorous cost-benefit analysis for "Drain" subcategories (e.g., Tables, Envelopes, Papers, Furnishings, Machines - those with low growth/profit/negative profit). <Decisions could include discontinuation, price adjustments, or sourcing optimization.>
+  + For Machines specifically (low PM but potentially high absolute profit), focus on margin improvement without sacrificing volume.
+
+- Develop Product Bundles for High-Value, High-Churn Segments
+  + Create attractive product bundles or loyalty programs specifically for the Home Office segment, combining high-margin "Star" subcategories (e.g., Copiers, Bookcases) with essential Office Supplies.
 ---
 
 ## 🔎 Final Conclusion & Recommendations  
@@ -207,18 +247,17 @@ Explain the step-by-step approach taken to solve the problem.
 
 👉🏻 Based on the insights and findings above, we would recommend Senior Manager to consider the following:  
 
-📌 Market Recommendations
+**📌 Market Recommendations**
 - Sustain Strong Markets: Keep investing in APAC, EU, and US. For EU and US, focus on reducing return rates to maximize profit
 - Develop Africa's Potential: With good profit and low returns, prioritize improving retention and reducing churn to unlock growth
 - Overhaul Challenging Markets:
   + EMEA: Major strategic overhaul needed due to very low Profit Margin (5.45%) and high churn
-  + Canada: Investigate extreme churn (93.44%) despite high profit; it's unsustainable
+  + Canada: Investigate extreme churn (93.44%) despite high profit; it's unsustainable -> Approach Canada cautiously with niche testing, not broad expansion.
   + LATAM: Optimize operations and address return rates
 
-📌 Product Recommendations  
-- Urgent Furniture Profitability Fix: The 7% Profit Margin and unprofitable Tables (-8.46% PM) are major drags. Immediately review costs, pricing, and quality. Consider discontinuing loss-making items.
-- Boost Office Supplies Margin: Despite high retention, the declining ~3-5% Profit Margin needs attention. Promote high-margin sub-categories (e.g., Paper, Labels) and address inefficiencies in low-margin ones.
-- Capitalize on Technology: This category shows strong and increasing 13-14% Profit Margins. Continue investment and innovation.
+**📌 Product Recommendations**
+- Launch an urgent profitability turnaround for Furniture, especially Tables.
+- Invest in and cross-promote "Star" subcategories (Copies, Appliances, Bookcases).
+- Develop targeted bundles for Home Office to boost retention (8.21% churn).
 
-***-> By aggressively addressing Furniture and Office Supplies profitability and implementing targeted market strategies (leveraging strong markets, developing Africa, and fixing underperformers), the company can significantly enhance its overall profit margin while sustaining strong growth and customer loyalty.***
 
