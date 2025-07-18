@@ -1,8 +1,8 @@
-# 📊 Market Expansion & Product Strategy for Sales using PowerBI
+# Market Expansion & Product Strategy for Sales using PowerBI
 
-- Author: Nguyen Thuy Hang
-- Date: 2025-06-23
-- Tools Used: Power BI  
+- **Author**: Nguyen Thuy Hang
+- **Date**: 2025-06-23
+- **Tools Used**: Power BI  
 
 ---
 
