@@ -138,10 +138,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 <img width="755" height="418" alt="{E8180417-602E-492B-AFB4-560240C78584}" src="https://github.com/user-attachments/assets/c2c28d8e-50ba-4dce-ad03-e707dbf44b16" />
 
-
-**📌 Analysis 1**
-
-***Oberservations***
+📌***Oberservations***
 - **Overall Financial Health:**
   + Superstore shows robust performance with 51.55% YoY Revenue Growth and a solid 11.61% Profit Margin. Low Return Rate (4.69%) and high Retention Rate (92.23%) further reinforce operational effectiveness and customer satisfaction.
 
@@ -159,11 +156,11 @@ Explain the step-by-step approach taken to solve the problem.
   + -> Prioritize expansion in proven strong markets while critically addressing profitability issues in EMEA. Approach Canada with caution due to high risk relative to its current scale.
 
 - **Home Office Segment: Profitable Yet Prone to Churn**
-+ The Home Office segment is highly valuable with the highest 11.99% Profit Margin and lowest 4.40% Return Rate. However, it also surprisingly has the highest 8.21% Churn Rate.
-+ -> Despite high initial value and satisfaction, Superstore struggles to retain Home Office customers. Targeted retention strategies are crucial to maximize their long-term value.
+  + The Home Office segment is highly valuable with the highest 11.99% Profit Margin and lowest 4.40% Return Rate. However, it also surprisingly has the highest 8.21% Churn Rate.
+  + -> Despite high initial value and satisfaction, Superstore struggles to retain Home Office customers. Targeted retention strategies are crucial to maximize their long-term value.
 
   
-***Recommendations***
+📌***Recommendations***
 - **Optimize Seasonal Profitability**: Implement dynamic pricing and cost controls to ensure consistent profit margins across all seasons, especially during Q4 peaks.
 - **Boost Furniture Profit**: Conduct an urgent cost and pricing review for Furniture to significantly improve its low 7% profit margin.
 - **Prioritize Core Markets; Fix EMEA**: Maximize growth in APAC, EU, and US. Urgently restructure EMEA operations to address its low 5.45% profit margin.
@@ -174,9 +171,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 <img width="757" height="420" alt="{A7F20A9A-3AD5-4CBD-A435-27AECFDB7B4A}" src="https://github.com/user-attachments/assets/ee3f3b2b-5079-4c20-8fb4-95984203ea8e" />
 
-**📌 Analysis 2**
-
-***Oberservations***
+📌***Oberservations***
 - **Market Profitability: Persistent Disparities Across Regions Over Time**
   + Profit Margins show distinct, consistent patterns across markets over four years (2011-2014).
   + Canada consistently holds the highest Profit Margin (ranging 21.24% - 25.88%), while EMEA consistently records the lowest (ranging 3.87% - 7.49%).
@@ -195,7 +190,7 @@ Explain the step-by-step approach taken to solve the problem.
   + -> High return rates in key markets like EU indicate potential product fit or expectation management issues that can erode profitability. More critically, Canada's extremely high churn, despite its high profit margin and low returns, points to a severe customer retention problem – customers might buy, be satisfied initially, but rarely repurchase. Similarly, the high churn in Africa and EMEA signals fundamental issues in sustaining customer loyalty, impacting long-term viability in these markets.
 
 
-***Recommendations***
+📌***Recommendations***
 - **Sustain & Optimize Strong Markets**
   + APAC: Continue investment to leverage scale and 12.16% PM
   + EU: Prioritize reducing its 6.21% Return Rate to maximize the 12.69% PM
@@ -211,10 +206,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 <img width="757" height="417" alt="{F79ADC7B-AEF3-46A7-879A-694D2F79C180}" src="https://github.com/user-attachments/assets/e3c163f0-b870-4ba3-81af-b4879942c838" />
 
-
-**📌 Analysis 3**
-
-***Oberservations***
+📌***Oberservations***
 - **Core Category Performance**:
   + Office Supplies dominates order volume (>50%)
   + Furniture consistently shows the lowest, volatile Profit Margin, contrasting with more stable Technology/Office Supplies.
@@ -230,7 +222,7 @@ Explain the step-by-step approach taken to solve the problem.
   + -> Stable returns confirm operational consistency. Product strategy should prioritize category performance over minor segment PM differences.
 
 
-***Recommendations***
+📌***Recommendations***
 - **Amplify "Star" Subcategories & Leverage Office Supplies Dominance**:
   + Increase investment (marketing, inventory, potential R&D) in high-growth, high-profit subcategories like Copies, Appliances, and Bookcases.
   + Strategically cross-promote these with Office Supplies, given its >50% order volume dominance, to drive higher-margin sales.
