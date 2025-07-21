@@ -136,7 +136,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 1️⃣ Dashboard 1: Overview
 
-<img width="755" height="418" alt="{E8180417-602E-492B-AFB4-560240C78584}" src="https://github.com/user-attachments/assets/c2c28d8e-50ba-4dce-ad03-e707dbf44b16" />
+<img width="757" height="416" alt="{38100227-D95F-4B89-8760-A5C29C08718F}" src="https://github.com/user-attachments/assets/2604e180-4c05-4954-ab83-40181b572166" />
 
 📌***Oberservations***
 - **Overall Financial Health:**
@@ -169,7 +169,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 2️⃣ Dashboard 2: Market Analysis
 
-<img width="757" height="420" alt="{A7F20A9A-3AD5-4CBD-A435-27AECFDB7B4A}" src="https://github.com/user-attachments/assets/ee3f3b2b-5079-4c20-8fb4-95984203ea8e" />
+<img width="758" height="417" alt="{0C85F789-9D54-473B-A4D1-ECC27A796CDC}" src="https://github.com/user-attachments/assets/1c055ad6-ac87-42a5-8214-8f3608489649" />
 
 📌***Oberservations***
 - **Market Profitability: Persistent Disparities Across Regions Over Time**
@@ -204,7 +204,8 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 3️⃣ Dashboard 3: Product Analysis
 
-<img width="757" height="417" alt="{F79ADC7B-AEF3-46A7-879A-694D2F79C180}" src="https://github.com/user-attachments/assets/e3c163f0-b870-4ba3-81af-b4879942c838" />
+<img width="756" height="417" alt="{0313FFD1-8A85-4121-A840-130352F12448}" src="https://github.com/user-attachments/assets/ffb17694-4fd6-4843-9fa8-6bee739ec1cc" />
+
 
 📌***Oberservations***
 - **Core Category Performance**:
