@@ -1,5 +1,7 @@
 # Market Expansion & Product Strategy for Sales using PowerBI
 
+<img width="959" height="540" alt="{4A647315-7E54-4EA1-BE45-7729A9AA826C}" src="https://github.com/user-attachments/assets/7766a31d-6b75-4b21-9302-7e3b01ec2bcd" />
+
 - **Author**: Nguyen Thuy Hang
 - **Date**: 2025-06-23
 - **Tools Used**: Power BI  
